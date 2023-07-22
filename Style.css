@@ -1,0 +1,53 @@
+  
+    *{
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    div.container{
+      border: 5px;
+      width: 80%;
+      margin: 0 auto;
+    }
+    header{
+      background-color: lavender;
+    }
+  div.hero{
+    border: 2px;
+    width: 49.6%;
+    display: inline-block;
+   
+  }
+  div.left, div.middle, div.right{
+    border: 3px;
+    width: 32.93%;
+    display: inline-block;
+  }
+    .cycle-slideshow img{
+      width: 100%;
+    }
+    aside img{
+      width: 100%;
+    }
+    main img{
+      width: 100%;
+    }
+    nav{
+      background-color: rgb(215, 243, 253);
+    }
+     
+     ul{
+      text-align: center;
+    }
+     li{
+      display: inline-block;
+      width: 100px;
+      border: 3px solid white;
+      line-height: 3em;
+    }
+    a{
+      color: blue;
+      border: 2px solid lightblue;
+      display: block;
+
+    }
